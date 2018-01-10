@@ -62,14 +62,16 @@ article.background p  {
   margin-top: 1em;
   
 }
+
 .container_  {
   width: 100%;
-  background: url(images/flowers.jpg) no-repeat center center fixed; 
+  background: url(../images/flowers.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
 }
+
 
 section  {
   float: right;
@@ -91,4 +93,3 @@ aside  {
   float: left;
   margin-left: 2em;
 }
-/* this is a comment */
